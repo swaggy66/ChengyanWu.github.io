@@ -27,17 +27,18 @@ My research interest includes machine learning and NLP. I have published more th
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Successfully created personal academic homepage to showcase my research work. 
+- *2025.08*: &nbsp;🎉🎉 Paper accepted at EMNLP Main 2025: “M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis”. 
+- *2025.08*: &nbsp;🎉🎉 Paper accepted at EMNLP Findings 2025: “Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects”. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Main 2025</div><img src='images/paperMABSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2502.11824)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Chengyan Wu**, Bolei Ma, Yihong Liu, Zheyu Zhang, Ningyuan Deng,Yanshu Li7, Baolan Chen8, Yi Zhang, Yun Xue, Barbara Plank
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
