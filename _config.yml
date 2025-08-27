@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chengyan Wu"
-description              : "Hello! I am 吴承彦 (Chengyan Wu), master student at South China Normal University, PHD candidate at SUN YAT-SEN University soon. My research focuses on NLP, LLM, and RLHF. I’m currently supervised by Professor Yun Xue at South China Normal University. My goal is to develop innovative algorithms and models to solve complex, real-world problems in the natural language processing."
+description              : "NLPer: Machine Learning & NLP & Multilingual IE & LLM Alignment & Multimodal"
 repository               : "ChengyanWu.github.io"
 google_scholar_stats_use_cdn : true
 
