@@ -35,7 +35,7 @@ My research interest includes machine learning and NLP. I have published more th
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Main 2025</div>
+      <div class="badge">EMNLP Main 2025</div>
       <img src='images/paperMABSA.png' alt="M-ABSA" width="100%">
     </div>
   </div>
@@ -52,6 +52,7 @@ My research interest includes machine learning and NLP. I have published more th
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">EMNLP Findings 2025</div>
       <img src='images/MERC.png' alt="MERC Survey" width="100%">
     </div>
   </div>
