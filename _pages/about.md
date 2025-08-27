@@ -40,17 +40,11 @@ My research interest includes machine learning and NLP. I have published more th
 
 **Chengyan Wu**, Bolei Ma, Yihong Liu, Zheyu Zhang, Ningyuan Deng,Yanshu Li, Baolan Chen, Yi Zhang, Yun Xue, Barbara Plank
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Main 2025</div><img src='images/paperMABSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects](https://arxiv.org/pdf/2505.20511)
 
 **Chengyan Wu**, Yiqiang Cai, Yang Liu, Pengxu Zhu, Yun Xue, Ziwei Gong, Julia Hirschberg, Bolei Ma
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
