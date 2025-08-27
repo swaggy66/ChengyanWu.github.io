@@ -25,7 +25,6 @@ My research interest includes machine learning and NLP. I have published more th
 
 
 
-
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Successfully created personal academic homepage to showcase my research work. 
 - *2025.08*: &nbsp;🎉🎉 Paper accepted at EMNLP Main 2025: “M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis”. 
