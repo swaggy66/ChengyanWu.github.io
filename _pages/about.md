@@ -67,7 +67,7 @@ My research interest includes machine learning and NLP. I have published more th
 
 
 # 📖 Educations
-- *2019.09 - 2023.06 *, Master’s Student, South China Normal University 
+- *2019.09 - 2023.06*, Master’s Student, South China Normal University 
 - *2023.09 - 2026.06*, Bachelor’s Student, South China Normal University
 
 
