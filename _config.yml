@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Chengyan Wu"
+description              : "Hello! I am 吴承彦 (Chengyan Wu), master student at South China Normal University, PHD candidate at SUN YAT-SEN University soon. My research focuses on NLP, LLM, and RLHF. I’m currently supervised by Professor Yun Xue at South China Normal University. My goal is to develop innovative algorithms and models to solve complex, real-world problems in the natural language processing."
+repository               : "ChengyanWu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chengyan Wu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "SUN YAT-SEN UNIVERSITY"
+  avatar           : "images/person_site.png"
+  bio              : "South China Normal University & SUN YAT-SEN University"
   location         : "Guangdong, China"
   employer         :
   pubmed           : 
