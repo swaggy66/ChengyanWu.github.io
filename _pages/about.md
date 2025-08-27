@@ -38,8 +38,9 @@ My research interest includes machine learning and NLP. I have published more th
 
 [M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2502.11824)
 
-**Chengyan Wu**, Bolei Ma, Yihong Liu, Zheyu Zhang, Ningyuan Deng,Yanshu Li7, Baolan Chen8, Yi Zhang, Yun Xue, Barbara Plank
+**Chengyan Wu**, Bolei Ma, Yihong Liu, Zheyu Zhang, Ningyuan Deng,Yanshu Li, Baolan Chen, Yi Zhang, Yun Xue, Barbara Plank
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Main 2025</div><img src='images/paperMABSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects](https://arxiv.org/pdf/2505.20511)
