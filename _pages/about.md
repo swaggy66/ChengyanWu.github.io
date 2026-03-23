@@ -65,6 +65,10 @@ My research interest includes machine learning and NLP. I have published more th
   </div>
 </div>
 
+# 📖 Professional Activities
+- Conference Reviews：ARR
+- Journal Reviews：International Journal of Computer Vision, ACM Transactions on Multimedia Computing Communications and Applications
+
 
 # 📖 Educations
 - *2019.09 - 2023.06*, Master’s Student, South China Normal University 
