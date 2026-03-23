@@ -21,7 +21,7 @@ Hello! I am 吴承彦 (Chengyan Wu), master student at South China Normal Univer
 
 
 
-My research interest includes machine learning and NLP. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DDe0guoAAAAJ&hl=zh-CN'>google scholar citations 50+.
+My research interest includes machine learning and NLP. I have published more than 5 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DDe0guoAAAAJ&hl=zh-CN'>google scholar citations 100+.
 
 
 
