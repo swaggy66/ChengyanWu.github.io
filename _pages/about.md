@@ -29,7 +29,7 @@ My research interest includes machine learning and NLP. I have published more th
 - *2025.08*: &nbsp;🎉🎉 Successfully created personal academic homepage to showcase my research work. 
 - *2025.08*: &nbsp;🎉🎉 Paper accepted at EMNLP Main 2025: “M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis”. 
 - *2025.08*: &nbsp;🎉🎉 Paper accepted at EMNLP Findings 2025: “Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects”. 
-
+- *2026.01*: &nbsp;🎉🎉 Paper accepted at ICASSP 2026 (Oral): “SURE: SYNERGISTIC UNCERTAINTY-AWARE REASONING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS”. 
 # 📝 Publications 
 
 <div class='paper-box'>
