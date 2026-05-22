@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am 吴承彦 (Chengyan Wu), master student at South China Normal University, PHD candidate at SUN YAT-SEN University. My research focuses on NLP, LLM, and RLHF. I’m currently supervised by Professor Yun Xue at South China Normal University. My goal is to develop innovative algorithms and models to solve complex, real-world problems in the natural language processing. I am always open to potential collaborations or research opportunities. Feel free to reach out to me at 1318147009@qq.com.
+Hello! I am 吴承彦 (Chengyan Wu), master student at South China Normal University, PHD candidate at SUN YAT-SEN University. My research focuses on NLP, LLM, and RLHF. I’m currently supervised by Professor Yun Xue at South China Normal University during my master’s studies, and I plan to pursue my PhD at Sun Yat-sen University under the supervision of Professor Jiahai Wang. My goal is to develop innovative algorithms and models to solve complex, real-world problems in the natural language processing. I am always open to potential collaborations or research opportunities. Feel free to reach out to me at 1318147009@qq.com.
 
 
 
