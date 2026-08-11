@@ -68,8 +68,8 @@ My research interest includes machine learning and NLP. I have published more th
 </div>
 
 # 📖 Professional Activities
-- Conference Reviews：ARR
-- Journal Reviews：International Journal of Computer Vision, ACM Transactions on Multimedia Computing Communications and Applications,Computer Speech & Language
+- Conference Reviews：ACL ARR (ACL, EMNLP, COLING, AAAI, CIKM, etc.)
+- Journal Reviews：International Journal of Computer Vision, ACM Transactions on Multimedia Computing Communications and Applications,Computer Speech & Language, Natural Language Processing Journal
 
 
 # 📖 Educations
