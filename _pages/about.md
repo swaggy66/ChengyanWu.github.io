@@ -31,7 +31,9 @@ My research interest includes machine learning and NLP. I have published more th
 - *2025.08*: &nbsp;🎉🎉 Paper accepted at EMNLP Findings 2025: “Multimodal Emotion Recognition in Conversations: A Survey of Methods, Trends, Challenges and Prospects”. 
 - *2026.01*: &nbsp;🎉🎉 Paper accepted at ICASSP 2026 (Oral): “SURE: SYNERGISTIC UNCERTAINTY-AWARE REASONING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS”.
 - *2026.04*: &nbsp;🎉🎉 Paper accepted at ACL 2026: “MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis”.
-- *2026.04*: &nbsp;🎉🎉 Paper accepted at ACL 2026: “FAITH: Factuality Alignment through Integrating Trustworthiness and Honestness”. 
+- *2026.04*: &nbsp;🎉🎉 Paper accepted at ACL 2026: “FAITH: Factuality Alignment through Integrating Trustworthiness and Honestness”.
+- *2026.09*: &nbsp;🎉🎉 Paper accepted at Interspeech 2026: “YUE-PUB-Speech: A Speech-Based Pragmatic Understanding Benchmark for Cantonese”.
+- *2026.10*: &nbsp;🎉🎉 Paper accepted at 5th AACL & 15th IJCNLP: “YUE-PUB: A Cantonese Pragmatic Understanding Benchmark”.
 # 📝 Publications 
 
 <div class='paper-box'>
